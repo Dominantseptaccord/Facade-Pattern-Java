@@ -1,9 +1,6 @@
 
-m	java:S106"+Replace this use of System.out by a logger.(áîäœ8Ê±˜üŸ2J$d49aa06d-57b9-4096-8ed5-78e9ee381b23
-r	java:S106"+Replace this use of System.out by a logger.(é™ÊŠùÿÿÿÿ8”ÂŸüŸ2J$e8800a4f-0970-4014-98aa-b698d83b5d0e
-s
-java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8Ğ±˜üŸ2J$b56ae828-1f12-4379-a1c8-887655f5c103
-s
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ğ±˜üŸ2J$96a0fa9e-bfc6-4a9e-9f2a-113ba34b8058
-v
-java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8Ğ±˜üŸ2J$847ae8a5-c2a4-468e-9b62-450716b64bb1
+€
+java:S1854"8Remove this useless assignment to local variable "food".(‚™ç¾øÿÿÿÿ8Ğ·Ÿ¢2J$c85087f9-02b6-4493-9f1d-1d3e67344e8d
+q
+java:S1481")Remove this unused "food" local variable.(‚™ç¾øÿÿÿÿ8ù ¢2J$f90fe61d-55b2-460c-9641-c25abaf3c26a
+r	java:S106"+Replace this use of System.out by a logger.(Î¦õèúÿÿÿÿ8Ø·Ÿ¢2J$8fe92e1a-907e-4890-b194-2149cbe8ca23
