@@ -1,6 +1,2 @@
 
-€
-java:S1854"8Remove this useless assignment to local variable "food".(‚™ç¾øÿÿÿÿ8Ğ·Ÿ¢2J$c85087f9-02b6-4493-9f1d-1d3e67344e8d
-q
-java:S1481")Remove this unused "food" local variable.(‚™ç¾øÿÿÿÿ8ù ¢2J$f90fe61d-55b2-460c-9641-c25abaf3c26a
-r	java:S106"+Replace this use of System.out by a logger.(Î¦õèúÿÿÿÿ8Ø·Ÿ¢2J$8fe92e1a-907e-4890-b194-2149cbe8ca23
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8„ïó‘¨2J$f5296e9e-4219-467d-96be-aed3b20dbadd
